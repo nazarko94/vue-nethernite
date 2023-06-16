@@ -7,8 +7,16 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "core-js": "^3.8.3",
-    "vue": "^2.6.14"
+    "algoliasearch": "^4.8.5",
+    "bootstrap": "^4.6.2",
+    "core-js": "^3.6.5",
+    "jquery": "^3.7.0",
+    "lodash": "^4.17.21",
+    "popper.js": "^1.16.1",
+    "vue": "^2.6.11",
+    "vuejs-paginate": "^2.1.0",
+    "vuetify": "^3.3.3",
+    "vuex": "^3.6.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.0",
